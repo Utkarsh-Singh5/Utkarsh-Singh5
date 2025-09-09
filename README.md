@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Utkarsh Singh and I'm a Btech C.S.E Student from G.L.A University</p>
 
 ###
 
